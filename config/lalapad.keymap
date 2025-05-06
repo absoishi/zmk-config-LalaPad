@@ -231,8 +231,8 @@
         MOUSE_R_LAYER {
             display-name = "mouse_r_layer";
             bindings = <
-&kp C_VOLUME_UP    &kp LA(LC(U))     &kp LA(LC(D))  &trans         &kp LA(LC(G))  &kp LA(LC(I))      &kp LG(LEFT_BRACKET)  &kp LG(RIGHT_BRACKET)  &mkp MCLK  &trans     &trans         &kp LG(W)
-&kp C_VOLUME_DOWN  &kp LA(LC(LEFT))  &trans         &kp LA(LC(F))  &trans         &kp LA(LC(RIGHT))  &kp LC(LEFT)          &mkp LCLK              &kp UP     &mkp RCLK  &kp LC(RIGHT)  &mo SCROLL_R_LAYER
+&kp C_VOLUME_UP    &kp LA(LC(U))     &kp LA(LC(D))  &kp LA(LC(F))  &kp LA(LC(G))  &kp LA(LC(I))      &kp LG(LEFT_BRACKET)  &kp LG(RIGHT_BRACKET)  &mkp MCLK  &trans     &trans         &kp LG(W)
+&kp C_VOLUME_DOWN  &kp LA(LC(LEFT))  &trans         &kp LA(LC(M))  &trans         &kp LA(LC(RIGHT))  &kp LC(LEFT)          &mkp LCLK              &kp UP     &mkp RCLK  &kp LC(RIGHT)  &mo SCROLL_R_LAYER
 &kp K_MUTE         &kp LA(LC(J))     &kp LA(LC(E))  &kp LA(LC(N))  &kp LA(LC(T))  &kp LA(LC(K))      &kp LG(T)             &kp LEFT               &kp DOWN   &kp RIGHT  &kp LC(UP)     &trans
 &trans             &trans            &trans         &trans         &trans         &trans             &kp LG(LS(T))         &trans                 &trans     &trans     &trans         &trans
                                      &trans         &trans         &trans         &trans             &trans                &trans                 &trans     &trans
